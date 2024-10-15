@@ -1,0 +1,23 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "azure-storage": "^2.1.0",
+    "debug": "^4.3.5",
+    "express": "^4.19.2",
+    "guid": "^0.0.12",
+    "html": "^1.0.0",
+    "jsonwebtoken": "^7.4.0",
+    "md5": "^2.3.0",
+    "mongoose": "^8.5.1",
+    "sendgrid": "^2.0.0"
+  }
+}
